@@ -1,14 +1,14 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/reposi3</url>
-			<iconclass>fa fa-twitter</iconclass>
+			<name>Đăng Ký Kênh Youtube Của Tôi</name>
+			<url>https://www.youtube.com/channel/UC3-Z9okGNscCJnvtwHh_JyA</url>
+			<iconclass>fa fa-youtube-play</iconclass>
 		</link>
 		<link>
-			<name>I want this depiction template</name>
-			<url>https://github.com/supermamon/Reposi3/</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
+			<name>Truy Cập Trang Web</name>
+			<url>https://www.menumod.top</url>
+			<iconclass>fa fa-globe</iconclass>
 		</link>
 	</footerlinks>
 </repo>

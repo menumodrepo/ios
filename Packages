@@ -31,14 +31,14 @@ Depiction: https://menumodrepo.github.io/ios/depictions/?p=com.supermamon.oldpac
 Package: com.justinpet26.iap26
 Version: 0.0.1-5
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Maintainer: BlackUndo <admin@menumod.top>
+Depends: firmware (>7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.justinpet26.iap26_0.0.1-5_iphoneos-arm.deb
 Size: 36324
 MD5sum: b590b49f53f11b35317169deb72ad133
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
+Description: In-App Purchasing. Firmware should be lower than 7.0
+Name: iAP26
 Author: Justinpet26
 Depiction: https://menumodrepo.github.io/ios/depictions/?p=com.justinpet26.iap26
 
